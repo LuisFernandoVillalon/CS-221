@@ -1,6 +1,7 @@
 # cs221 - Introduction to Object Oriented Programming
-A repository to showcase my coursework for my cs222, Introduction to Object Oriented Programming, college course. 
-Assingment topics included the following; 
+A repository to showcase my coursework for my cs2221, Introduction to Object Oriented Programming, college course. 
+
+## Assingment topics included the following; 
 - Fundamentals
 - Selections
 - Math, Char, Strings
